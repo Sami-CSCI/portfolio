@@ -26,7 +26,7 @@ Then open http://localhost:5173 in your browser.
 
 ## Follow the build
 
-I post every new version on [LinkedIn](https://www.linkedin.com/in/sami-zorkot-380a66449/).
+I post every new version on [LinkedIn](https://www.linkedin.com/in/sami-zorkot-csci/).
 
 ## Credits
 
